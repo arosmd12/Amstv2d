@@ -172,7 +172,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-
+https://m.rctiplus.com/tv/rcti?utm_source=link_googlevita&utm_medium=referral&utm_campaign=video_live-tv_rcti_china_vs_indonesia
 
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="TRANS TV" tvg-logo="http://amstv.my.id/icon/transtv.png",TRANS TV
@@ -230,7 +230,7 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="http://amstv.my.id/icon/sctv.png" group-title="TV NASIONAL",SCTV (P)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://chiva.my.id/sc/avid/play.m3u8?id=204&type=hls
+#https://chiva.my.id/sc/avid/play.m3u8?id=204&type=hls
 
 #EXTINF:-1 tvg-logo="http://amstv.my.id/icon/sctv.png" group-title="TV NASIONAL",SCTV (fm)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
