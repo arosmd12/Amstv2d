@@ -107,7 +107,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 ##https://pizztv.qreatifku.my.id/cdn-vidi/play.m3u8?token=e9b97f16d3573980fabaac63b798616c34283363e2fb6228d23d4d88ee880ee65441ed914420a89378ba09d6500d503cca160cd74cc2b6f7195a8d14e5e76ec6&id=8237
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/live/8237/master.m3u8?hdnts=exp=1728888929~acl=/live/8237/master.m3u8!/hls-p/ingest_8237*/*!/hls-b/ingest_8237*/*~id=166600787~hmac=24b746b5e561d9cef04a85b06a16d49693cd0fd2d9e887072b467f7ed39d77cd
+#https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/live/8237/master.m3u8?hdnts=exp=1728888929~acl=/live/8237/master.m3u8!/hls-p/ingest_8237*/*!/hls-b/ingest_8237*/*~id=166600787~hmac=24b746b5e561d9cef04a85b06a16d49693cd0fd2d9e887072b467f7ed39d77cd
 
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="http://amstv.my.id/icon/mentaritv.png", Mentari TV2
@@ -144,6 +144,7 @@ http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 
+https://m.rctiplus.com/tv/rcti?utm_source=link_googlevita&utm_medium=referral&utm_campaign=video_live-tv_rcti_china_vs_indonesia
 
 #EXTINF:0 tvg-id="MNCTV.Id" tvg-logo="http://amstv.my.id/icon/mnc.png" group-title="TV NASIONAL",MNCTV (v)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
